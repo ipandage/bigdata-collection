@@ -14,6 +14,7 @@
 ## 博客
 
 - [powerbi] (http://www.cnblogs.com/powerbi/)
+- [OLAP 相关的一些开源项目] (http://blog.csdn.net/goustzhu/article/details/5940652)
 
 
 ## BI产品
