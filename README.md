@@ -21,3 +21,7 @@
 
 - [finebi 收费] (http://www.finebi.com/)
 - [Pentaho 开源]
+
+## 学习
+
+- [Mondrian入门] (http://tech.sina.com.cn/s/2008-09-04/0701793131.shtml)
