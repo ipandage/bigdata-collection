@@ -16,3 +16,7 @@
 - [powerbi] (http://www.cnblogs.com/powerbi/)
 
 
+## BI产品
+
+- [finebi 收费] (http://www.finebi.com/)
+- [Pentaho 开源] (http://www.finebi.com/)
