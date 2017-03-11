@@ -11,3 +11,8 @@
 - [pinot] (https://github.com/linkedin/pinot)
 - [kylin] (https://github.com/apache/kylin)
 
+## 博客
+
+- [powerbi] (http://www.cnblogs.com/powerbi/)
+
+
