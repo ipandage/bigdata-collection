@@ -1,6 +1,4 @@
-# 资料收集
-
-## 数据挖掘OLAP
+## 数据挖掘 OLAP
 
 - [mondrian] (https://github.com/pentaho/mondrian)
 - [olap] (https://github.com/olap4j/olap4j)
