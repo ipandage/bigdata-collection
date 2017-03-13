@@ -11,6 +11,10 @@
 - [pinot] (https://github.com/linkedin/pinot)
 - [kylin] (https://github.com/apache/kylin)
 
+## etl
+
+- [kettle] (https://github.com/cwarden/kettle)
+
 ## 博客
 
 - [powerbi] (http://www.cnblogs.com/powerbi/)
