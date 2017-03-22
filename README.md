@@ -7,6 +7,7 @@
 ## 数据可视化
 
 - [v-note（数据可视化笔记）] (https://github.com/zhouningyi/v-note)
+- [DataVisual（数据可视化平台）] (https://github.com/wangyapu0714/DataVisual)
 
 ## olap
 
