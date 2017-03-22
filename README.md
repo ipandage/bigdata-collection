@@ -3,6 +3,7 @@
 
 - [Big_Data_Resources] (https://github.com/Flowerowl/Big_Data_Resources)
 - [awesome-bigdata] (https://github.com/onurakpolat/awesome-bigdata)
+- [data-visualization] (https://github.com/xuqiang521/data-visualization)
 
 ## 数据可视化
 
