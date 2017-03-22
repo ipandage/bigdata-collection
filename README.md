@@ -4,6 +4,10 @@
 - [Big_Data_Resources] (https://github.com/Flowerowl/Big_Data_Resources)
 - [awesome-bigdata] (https://github.com/onurakpolat/awesome-bigdata)
 
+## 数据可视化
+
+- [v-note（数据可视化笔记）] (https://github.com/zhouningyi/v-note)
+
 ## olap
 
 - [mondrian] (https://github.com/pentaho/mondrian)
