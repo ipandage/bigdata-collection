@@ -6,7 +6,7 @@
 
 ## 数据可视化
 
-- [mdrill（数据挖掘）] (https://github.com/alibaba/mdrill)
+- [mdrill（千亿数据即席分析）] (https://github.com/alibaba/mdrill)
 
 ## 数据可视化
 
