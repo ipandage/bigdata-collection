@@ -27,6 +27,7 @@
 
 ## 博客
 
+- [BI系统主要是为了帮助企业解决什么样的问题？] (https://www.zhihu.com/question/20415834)
 - [powerbi] (http://www.cnblogs.com/powerbi/)
 - [OLAP 相关的一些开源项目] (http://blog.csdn.net/goustzhu/article/details/5940652)
 
